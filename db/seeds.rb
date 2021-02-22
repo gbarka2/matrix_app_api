@@ -14,3 +14,9 @@ Character.create([
 	{ name: "Agent Smith", description: "Agent Smith is a fictional character and the main antagonist of The Matrix trilogy. He was portrayed by Hugo Weaving in the films and voiced by Christopher Corey Smith in The Matrix: Path of Neo." },
 
 ])
+
+Vehicle.create([
+
+  {name: "Nebuchadnezzar", style: "Spaceship"}
+
+])
